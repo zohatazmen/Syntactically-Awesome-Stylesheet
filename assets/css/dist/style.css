@@ -1,0 +1,54 @@
+body {
+  background-color: #fff;
+  color: #333;
+}
+
+.result {
+  color: yellow;
+}
+
+.item-1 {
+  width: 100px;
+}
+
+.item-2 {
+  width: 200px;
+}
+
+.item-3 {
+  width: 300px;
+}
+
+.box-red {
+  background-color: red;
+}
+
+.box-green {
+  background-color: green;
+}
+
+.box-blue {
+  background-color: blue;
+}
+
+.item-1 {
+  width: 50px;
+}
+
+.item-2 {
+  width: 100px;
+}
+
+.item-3 {
+  width: 150px;
+}
+
+body {
+  background-color: #fff;
+  color: #333;
+}
+
+.header {
+  background-color: #333;
+  color: #fff;
+}
